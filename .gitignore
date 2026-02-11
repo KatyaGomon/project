@@ -1,0 +1,11 @@
+# Windows system file
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Log files
+*.log
